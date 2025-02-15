@@ -1,3 +1,3 @@
 # Nate-AI
 
-Step 1: Go on [ChatGPT](chatgpt.com)
+Step 1: Go on [ChatGPT](https://chatgpt.com/)
