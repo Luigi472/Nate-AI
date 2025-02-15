@@ -1,4 +1,4 @@
-# Nate AI Set Up
+# Nate-AI Set Up
 
 Step 1:  Copy the [Prompt](https://github.com/Luigi472/Nate-AI/blob/main/Prompt)
 
